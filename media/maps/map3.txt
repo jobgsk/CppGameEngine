@@ -1,0 +1,37 @@
+caaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaac
+b                                                    b
+b        caaaaac caaaac         caaac caaaaaac       b
+b  o     b     b b    b         b   b b      b       b
+b        b     b b    caaaac baab   b b      b       b
+b      e b     b b         b b      b b      b       b
+b  p     b  caac caac      b b   caac caaac  b       b
+b     caac  b       b      b b   b        b  cac caaac
+caaac b     b       b      b b   b        b    b b
+    b caaaaac       caaaaaac caaac        caaaac b
+    b                                            b
+    b caaaaac       caaaaaac caaac        caaaac b
+    b b     b       b      b b   b        b    b b
+    b b     b       b      b b   b        b    b b
+    b b     b       b      b b   caaaac cac    b b
+    b b     caac caac      b b        b b      b b
+    b b        b b      caac caac     b b      b b
+    b b        b b      b       b     b b      b b
+    b b        b b      b       b     b b      b b
+    b b        b b      b       b     b b      b b
+    b caaaaaaaac caaaaaac       caabaac caaaaaac b
+    b                                            b
+    b caaaaaaaac caaaaaac       caaaaaac caaaaac b
+    b b        b b      b       b      b b     b b
+    b b        b b      b       b      b b     b b
+    b b        b b      b       b   baab baab  b b
+    b b      cac cac    caac caac   b       b  b b
+    b b      b     b       b b      b       b  b b
+    b b      b     b       b b      b       b  b b
+    b b      b     caaaaaaac caaaaaac       caac b
+    b caaaaaac                                   b
+    b              caaaaaaaaaaaaaaaac        caaac
+    caaaaaaaac     b                b        b            
+             b     b                b        b            
+             b     b                b        b            
+             b     b                b        b            
+             caaaaac                caaaaaaaac            
